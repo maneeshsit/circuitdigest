@@ -1,4 +1,5 @@
 # circuitdigest
+
 **Code for Face recognition and acoustic NFC based access control system concept**
 To implement an access control system that combines face recognition and OFDM-based acoustic data transmission on the MAX78000 Feather development board, this solution leverages the MAX78000 microcontroller's Convolutional Neural Network (CNN) accelerator for efficient face recognition and peripherals for handling audio input and output.
 
